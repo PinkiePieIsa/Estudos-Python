@@ -9,6 +9,7 @@ print(texto)
 # Toda função deve ter parênteses ()
 # Usa-se vírgula quando as varíaveis precisam ser somadas, porém não são do mesmo tipo
 # Usa-se + quando as varíaveis são do mesmo tipo 
+# Concatenação soma de strings
 
 nome = 'Isabela'
 idade = 21
