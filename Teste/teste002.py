@@ -10,4 +10,5 @@ print(num.isupper())
 print(num.islower())
 # Responde se é minúsculo
 print(num.isprintable())
+# Se pode ser printado na tela
 
